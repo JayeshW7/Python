@@ -1,7 +1,7 @@
 
-                        ******* Assignments 1-12 for static python will be posted in same repository *******
+                        ******* Assignments 1-12  *******
  
-Assignment 1 -                                                                                                                                                                   
+Assignment 1 -  name - assign1.py                                                                                                                                                                  
 Assignment 2 -                                                                                                              
 Assignment 3 -                                                                       
 Assignment 4 -                                                           
