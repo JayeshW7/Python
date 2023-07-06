@@ -1,7 +1,7 @@
 
                         ******* Assignments 1-12  *******
  
-Assignment 1 -  name - assign1.py                                                                                                                                                                  
+Assignment 1 -  name - assign1.py date - 06/07/2023                                                                                                                                                                   
 Assignment 2 -                                                                                                              
 Assignment 3 -                                                                       
 Assignment 4 -                                                           
