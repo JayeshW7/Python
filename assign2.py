@@ -117,7 +117,7 @@ print(f"is a and b {ans5}")
 ans5 = a is not b
 print(f" is not a and b {ans5}")
 
-# ****** special operators *******
+# ****** membership operators *******
 
 strg = "Jayesh"
 ans6 = "J" in strg
