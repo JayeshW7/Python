@@ -106,7 +106,7 @@ print(f"bitwise >> of {a} and {b} is {ans4}")
 ans4 = a << 2
 print(f"bitwise << of {a} and {b} is {ans4}")
 
-# ****** Identity Operators
+# ****** Identity Operators ******
 
 a = 20
 b = 20.0
