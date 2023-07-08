@@ -3,7 +3,7 @@
  
 Assignment 1 -  name - assign1.py date - 06/07/2023                                                                                                                                                                   
 Assignment 2 -  name - assign2.py date - 07/07/2023                                                                                                          
-Assignment 3 -                                                                       
+Assignment 3 -  name - assign3.py date - 08/07/2023                                                                    
 Assignment 4 -                                                           
 Assignment 5 -                                                             
 Assignment 6 -                                                           
