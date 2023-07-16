@@ -11,5 +11,5 @@ Assignment 7 -  name - assign7.py date - 12/07/2023
 Assignment 8 -  name - assign8.py date - 13/07/2023                                                         
 Assignment 9 -  name - assign9.py date - 14/07/2023                                                             
 Assignment 10 -  name - assign10.py date - 13/07/2023                                                             
-Assignment 11 -                                                           
-Assignment 12 -                                                           
+Assignment 11 -  name - assign11.py date - 16/07/23                                                         
+Assignment 12 -  name - students(assign12.py) date - 16/07/23                                                         
